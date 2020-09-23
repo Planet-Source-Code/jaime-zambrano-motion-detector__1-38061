@@ -1,0 +1,2 @@
+350000,210000,200,2.5,
+Threshold AVG., Threshold STDVAR, Timer Interval, Diff between 2 Line Avg.
